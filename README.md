@@ -1,5 +1,15 @@
 # dotfiles
-so i can replicate my bloatware elsewhere
+
+My developer/productivity-oriented configurations for MacOS. Eyeballed, untested, and possibly disasterous.
+
+## Includes, but is not limited to:
+
+- [Oh My Zsh](https://ohmyz.sh/) with [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [iTerm2](https://iterm2.com/)
+- [Alfred](https://www.alfredapp.com/)
+- "Mini-apps": [AltTab](https://alt-tab-macos.netlify.app/), [Rectangle](https://rectangleapp.com/), [Flux](https://justgetflux.com/), etc.
+- Apps: 1Password, Spotify, Discord, Notion, etc.
+- Gloabal NPM installations via `.npmfile`
 
 # Setup
 
